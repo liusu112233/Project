@@ -1,5 +1,5 @@
 """
-第二种方案
+第二是是是种方案
 """
 from socket import *
 from select import *
